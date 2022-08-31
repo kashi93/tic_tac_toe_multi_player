@@ -66,8 +66,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 - php artisan queue:work (keep it running)
 - php artisan websocket:serve (keep it running)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
